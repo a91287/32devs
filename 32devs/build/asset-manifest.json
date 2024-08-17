@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/32devs/build/static/css/main.a3124c5d.css",
+    "main.js": "/32devs/build/static/js/main.885f7d94.js",
+    "static/js/453.83bf8c12.chunk.js": "/32devs/build/static/js/453.83bf8c12.chunk.js",
+    "index.html": "/32devs/build/index.html",
+    "main.a3124c5d.css.map": "/32devs/build/static/css/main.a3124c5d.css.map",
+    "main.885f7d94.js.map": "/32devs/build/static/js/main.885f7d94.js.map",
+    "453.83bf8c12.chunk.js.map": "/32devs/build/static/js/453.83bf8c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3124c5d.css",
+    "static/js/main.885f7d94.js"
+  ]
+}
